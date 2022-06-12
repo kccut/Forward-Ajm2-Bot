@@ -1,5 +1,5 @@
 services:
-  forward-ajm1-bot:
+  forward-ajm2-bot:
     build: .
     environment:
       ADMINS: 567835245
